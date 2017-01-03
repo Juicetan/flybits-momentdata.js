@@ -1,5 +1,5 @@
 // @author Justin Lam
-// @version master:e2ee368
+// @version master:34d4cf5
 ;(function(undefined) {
 
 /**
@@ -44,7 +44,7 @@ Fmd.cfg = {
   }
 };
 
-Fmd.VERSION = "master:e2ee368";
+Fmd.VERSION = "master:34d4cf5";
 
 /**
  *
